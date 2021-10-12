@@ -1,2 +1,1 @@
-# https-www.articlerewriter.net-
-Our advanced algorithm rewrites your text without altering its sense or general idea.
+It is an artificial intelligence-based sentence rephraser that produces high-quality paraphrasing results. Each user's uploaded content is automatically rewritten by using advanced paraphrasing techniques.
